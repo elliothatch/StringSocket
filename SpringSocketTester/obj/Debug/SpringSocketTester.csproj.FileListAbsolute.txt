@@ -1,0 +1,8 @@
+C:\Users\Elliot\Documents\University of Utah\StringSocket\SpringSocketTester\bin\Debug\SpringSocketTester.dll
+C:\Users\Elliot\Documents\University of Utah\StringSocket\SpringSocketTester\bin\Debug\SpringSocketTester.pdb
+C:\Users\Elliot\Documents\University of Utah\StringSocket\SpringSocketTester\bin\Debug\PS7.dll
+C:\Users\Elliot\Documents\University of Utah\StringSocket\SpringSocketTester\bin\Debug\PS7.pdb
+C:\Users\Elliot\Documents\University of Utah\StringSocket\SpringSocketTester\bin\Debug\PS7.xml
+C:\Users\Elliot\Documents\University of Utah\StringSocket\SpringSocketTester\obj\Debug\SpringSocketTester.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Documents\University of Utah\StringSocket\SpringSocketTester\obj\Debug\SpringSocketTester.dll
+C:\Users\Elliot\Documents\University of Utah\StringSocket\SpringSocketTester\obj\Debug\SpringSocketTester.pdb

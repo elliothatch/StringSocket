@@ -1,0 +1,6 @@
+C:\Users\Elliot\Documents\University of Utah\StringSocket\PS7\bin\Debug\PS7.XML
+C:\Users\Elliot\Documents\University of Utah\StringSocket\PS7\bin\Debug\PS7.dll
+C:\Users\Elliot\Documents\University of Utah\StringSocket\PS7\bin\Debug\PS7.pdb
+C:\Users\Elliot\Documents\University of Utah\StringSocket\PS7\obj\Debug\PS7.csprojResolveAssemblyReference.cache
+C:\Users\Elliot\Documents\University of Utah\StringSocket\PS7\obj\Debug\PS7.dll
+C:\Users\Elliot\Documents\University of Utah\StringSocket\PS7\obj\Debug\PS7.pdb
